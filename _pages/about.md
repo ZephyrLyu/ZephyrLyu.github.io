@@ -44,7 +44,7 @@ Her research interests include **wireless communications**, **low-altitude netwo
 - H. Liu, W. Lin, L. Xiao, P. Zhang, H. Chen, Z. Lv, “**RL-based Anti-Jamming Maritime Communications for Multi-Modal Perception**,” *IEEE VTC-Fall*, Chengdu, China, Oct 2025.
 - Y. Liu, L. Xiao, T. Li, Z. Lv, Z. Qiao, H. Xiong, “**RL-Based Edge-Assisted Dynamic Inference for Mobile Vision**,” *IEEE GLOBECOM*, Taipei, Dec 2025.
 
-> 其余论文可继续追加为完整列表（建议另建 Publications 子页或折叠组件）。
+[See full list →](/publications/)
 
 ## Professional Services
 - Co-Chair, **IEEE/CIC ICCC 2025 workshop** “From Horizon to Orbit in 6G”
