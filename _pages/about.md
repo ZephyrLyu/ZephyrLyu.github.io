@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "About"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
 ---
 
-## Biography
 Zefang Lv is currently a Postdoctoral Researcher with the Institute of Space Internet, Fudan University.
 She received the Ph.D. in Communication and Information Systems from Xiamen University in 2024 (advised by **Prof. Liang Xiao**),
 the M.S. in Applied Statistics from North China Electric Power University in 2020, and the B.S. in Statistics from Shandong University in 2016.
