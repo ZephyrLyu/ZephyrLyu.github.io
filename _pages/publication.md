@@ -1,11 +1,10 @@
 ---
 permalink: /publications/
-##title: "Publications"
-author_profile: false
-toc: false
-toc_sticky: false
+title: "Publications"
+author_profile: true
+redirect_from:
+  - /about/
 ---
-
 ## Journal Papers
 
 Achieving data utility-privacy tradeoff in Internet of Medical Things: A machine learning approach\
