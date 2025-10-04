@@ -4,8 +4,10 @@ title: ""
 author_profile: true
 redirect_from:
   - /about/
+  - /about.html
 ---
 
+<span class='anchor' id='about-me'></span>
 Zefang Lv is currently a Postdoctoral Researcher with the Institute of Space Internet, Fudan University.
 She received the Ph.D. in Communication and Information Systems from Xiamen University in 2024 (advised by **Prof. Liang Xiao**),
 the M.S. in Applied Statistics from North China Electric Power University in 2020, and the B.S. in Statistics from Shandong University in 2016.
@@ -17,7 +19,7 @@ Her research interests include wireless communications, low-altitude networks, a
 - Low-altitude networks  
 - Reinforcement learning for wireless networks
 
-## Education
+## Educations
 - Ph.D., Communication and Information Systems, **Xiamen University**, Sep 2020 – Jun 2024  
 - M.S., Applied Statistics, **North China Electric Power University**, Sep 2017 – Jun 2020  
 - B.S., Statistics, **Shandong University**, Sep 2012 – Jun 2016
