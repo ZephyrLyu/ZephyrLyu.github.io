@@ -14,16 +14,19 @@ the M.S. in Applied Statistics from North China Electric Power University in 202
 She has published 30+ papers in wireless communications and wireless security (e.g., IEEE TWC, TIFS, TCOM, TMC), and serves as reviewer for IEEE TIFS, TWC, TCOM, TVT, IoTJ, GLOBECOM, and ICC.
 Her research interests include wireless communications, low-altitude networks, and reinforcement learning for wireless networks.
 
+<span class='anchor' id='research-interests'></span>
 ## Research Interests
 - Wireless communications and security  
 - Low-altitude networks  
 - Reinforcement learning for wireless networks
 
+<span class='anchor' id='educations'></span>
 ## Educations
 - Ph.D., Communication and Information Systems, **Xiamen University**, Sep 2020 – Jun 2024  
 - M.S., Applied Statistics, **North China Electric Power University**, Sep 2017 – Jun 2020  
 - B.S., Statistics, **Shandong University**, Sep 2012 – Jun 2016
 
+<span class='anchor' id='publications'></span>
 ## Selected Publications
 - **[TWC'23]** Multi-Agent Reinforcement Learning based UAV Swarm Communications Against Jamming\
 **Zefang Lv**, Liang Xiao, Yousong Du, Guohang Niu, Chengwen Xing, Wenyuan Xu\
@@ -46,10 +49,12 @@ Her research interests include wireless communications, low-altitude networks, a
 
 [See full list →](/publications/)
 
+<span class='anchor' id='professional-services'></span>
 ## Professional Services
 - Co-Chair, **IEEE/CIC ICCC 2025 workshop** “From Horizon to Orbit in 6G”
 - TPC Member: **IEEE/CIC ICCC 2025**; **IEEE ICC 2025**; **UbiSec 2024**
 
+<span class='anchor' id='honors-and-awards'></span>
 ## Honors & Awards
 - **Outstanding Graduate of Beijing Municipality**, 2020
 - **National Scholarship**, 2019
