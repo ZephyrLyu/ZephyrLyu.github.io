@@ -1,9 +1,9 @@
 ---
 permalink: /publications/
 ##title: "Publications"
-author_profile: true
-toc: true
-toc_sticky: true
+author_profile: false
+toc: false
+toc_sticky: false
 ---
 
 ## Journal Papers
