@@ -2,8 +2,7 @@
 permalink: /publications/
 title: ""
 author_profile: false
-redirect_from:
-  - /about/
+
 ---
 ## Journal Papers
 
