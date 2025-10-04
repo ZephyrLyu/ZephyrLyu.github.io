@@ -7,9 +7,7 @@ main:
     url: "/#-educations"
     
   - title: "Publications"
-    url: /publications/
-
-
+    url: "/publications/"
 
   - title: "Professional Services"
     url: "/#-professional-services"
