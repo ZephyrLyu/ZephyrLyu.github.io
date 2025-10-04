@@ -1,3 +1,10 @@
+---
+permalink: /publications/
+title: "Publications"
+author_profile: true
+toc: true
+toc_sticky: true
+---
 
 ## Journal Papers
 
