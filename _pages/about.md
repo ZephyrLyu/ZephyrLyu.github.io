@@ -11,7 +11,7 @@ redirect_from:
 Zefang Lv is currently a Postdoctoral Researcher with the Institute of Space Internet, Fudan University.
 She received the Ph.D. in Communication and Information Systems from Xiamen University in 2024 (advised by **Prof. Liang Xiao**),
 the M.S. in Applied Statistics from North China Electric Power University in 2020, and the B.S. in Statistics from Shandong University in 2016.
-She has published 30+ papers in wireless communications and wireless security (e.g., IEEE TWC, TIFS, TCOM, TMC), and serves as reviewer for IEEE TIFS, TWC, TCOM, TVT, IoTJ, GLOBECOM, and ICC.
+She has published 30+ papers in wireless communications and wireless security (e.g., IEEE TWC, TIFS, TCOM, TMC), and served as reviewer for IEEE TIFS, TWC, TCOM, TVT, IoTJ, GLOBECOM, and ICC.
 Her research interests include wireless communications, low-altitude networks, and reinforcement learning for wireless networks.
 
 ## Research Interests
