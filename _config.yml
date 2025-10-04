@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Jekyll!a
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,7 +9,7 @@
 title                    : "Zefang Lv"
 description              : "Postdoc, Institute of Space Internet, Fudan University."
 repository               : "ZephyrLyu/ZephyrLyu.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
