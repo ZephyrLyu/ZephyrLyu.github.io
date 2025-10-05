@@ -22,7 +22,7 @@ the M.S. in Applied Statistics from North China Electric Power University in 202
 - M.S., Applied Statistics, **North China Electric Power University**, Sep 2017 – Jun 2020  
 - B.S., Statistics, **Shandong University**, Sep 2012 – Jun 2016
 
-## Selected Publications
+## Selected Publications ([See full list →](/publications/))
 - **[TWC'23]** Multi-Agent Reinforcement Learning based UAV Swarm Communications Against Jamming\
 **Zefang Lv**, Liang Xiao, Yousong Du, Guohang Niu, Chengwen Xing, Wenyuan Xu\
 *IEEE Transactions on Wireless Communications*, 2023. 
@@ -42,7 +42,6 @@ the M.S. in Applied Statistics from North China Electric Power University in 202
 **Zefang Lv**, Yousong Du, Yifan Chen, Liang Xiao, Shuai Han, Xiangyang Ji\
 *IEEE Global Communications Conference (GLOBECOM)*, 2023. 
 
-[See full list →](/publications/)
 
 ## Professional Services
 - Co-Chair, **IEEE/CIC ICCC 2025 workshop** “From Horizon to Orbit in 6G”
