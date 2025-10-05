@@ -43,9 +43,12 @@ the M.S. in Applied Statistics from North China Electric Power University in 202
 *IEEE Global Communications Conference (GLOBECOM)*, 2023. 
 
 
-## Professional Services
-- Co-Chair, **IEEE/CIC ICCC 2025 workshop** “From Horizon to Orbit in 6G”
-- TPC Member: **IEEE/CIC ICCC 2025**; **IEEE ICC 2025**; **UbiSec 2024**
+## Services
+- Co-Chair of IEEE/CIC ICCC 2025 Workshop “From Horizon to Orbit in 6G”
+- Session Chair for IEEE/CIC ICCC 2025
+- TPC Membe for IEEE/CIC ICCC 2025
+- TPC Membe for IEEE ICC 2025
+- TPC Membe for UbiSec 2024
 
 ## Honors & Awards
 - **Outstanding Graduate of Beijing Municipality**, 2020
