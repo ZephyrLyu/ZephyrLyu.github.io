@@ -162,7 +162,7 @@ Xudong You, **Zefang Lv**, Yuzhen Ding, Wei Su, Liang Xiao\
 - TPC Membe for IEEE ICC 2025
 - TPC Membe for UbiSec 2024
 
-## Honors & Awards
+## Awards
 - **Outstanding Graduate of Beijing Municipality**, 2020
 - **National Scholarship**, 2019
 
