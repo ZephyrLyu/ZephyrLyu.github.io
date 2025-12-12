@@ -12,19 +12,19 @@ Zefang Lv is currently a Postdoctoral Researcher, working with **Prof. Yue Gao**
 She received the Ph.D. in Communication and Information Systems from Xiamen University in 2024 (advised by **Prof. Liang Xiao**),
 the M.S. in Applied Statistics from North China Electric Power University in 2020, and the B.S. in Statistics from Shandong University in 2016. She has published 30+ papers in wireless communications and wireless security (e.g., IEEE TWC, TIFS, TCOM, TMC), and served as reviewer for IEEE TIFS, TWC, TCOM, TVT, IoTJ, GLOBECOM, and ICC. Her research interests include wireless communications, low-altitude networks, and reinforcement learning for wireless networks.
 
-## Research Interests
+# Research Interests
 - Wireless communications and security  
 - Low-altitude networks  
 - Reinforcement learning for wireless networks
 
-## Educations
+# Educations
 - Ph.D., Communication and Information Systems, **Xiamen University**, Sep 2020 – Jun 2024  
 - M.S., Applied Statistics, **North China Electric Power University**, Sep 2017 – Jun 2020  
 - B.S., Statistics, **Shandong University**, Sep 2012 – Jun 2016
 
-## Publications 
+# Publications 
 
-### Journal Papers
+## Journal Papers
 
 1. Reinforcement Learning-Based Edge-Assisted Inference with Multimodal Data\
 Yu Liu, Liang Xiao, Chuxuan Wang, **Zefang Lv**, Yiwen Zhan, Yilin Xiao, Helin Yang\
@@ -94,7 +94,7 @@ Zhitao Guan, **Zefang Lv**, Xianwen Sun, Longfei Wu, Jun Wu, Xiaojiang Du, Mohse
 Zhitao Guan, **Zefang Lv**, Xiaojiang Du, Longfei Wu, Mohsen Guizani\
 *Future Generation Computer Systems*, 2019. 
 
-### Conference Papers
+## Conference Papers
 
 1. Reinforcement Learning Based Anti-Jamming FANET Routing with QoS Guarantee\
 Jieling Li, Chuxuan Wang, Liang Xiao, **Zefang Lv**, Pengli Zhang, Helin Yang\
@@ -153,7 +153,7 @@ Xudong You, **Zefang Lv**, Yuzhen Ding, Wei Su, Liang Xiao\
 *International Conference on Wireless Communications and Signal Processing (WCSP)*, 2020. 
 
 
-## Services
+# Services
 - TPC Membe for IEEE ICC 2026
 - TPC Membe for IEEE WCNC 2026
 - Co-Chair of IEEE/CIC ICCC 2025 Workshop “From Horizon to Orbit in 6G”
@@ -162,7 +162,7 @@ Xudong You, **Zefang Lv**, Yuzhen Ding, Wei Su, Liang Xiao\
 - TPC Membe for IEEE ICC 2025
 - TPC Membe for UbiSec 2024
 
-## Awards
+# Awards
 - **Outstanding Graduate of Beijing Municipality**, 2020
 - **National Scholarship**, 2019
 
