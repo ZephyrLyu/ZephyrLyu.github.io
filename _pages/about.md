@@ -48,7 +48,11 @@ Liang Xiao; Haoyu Chen; Shiyu Xu; **Zefang Lv**; Chuxuan Wang; Yilin Xiao\
 
 1. Reinforcement Learning Based Accurate Worm Detection for Smart Grids\
 Liang Xiao, Jieling Li, Yilin Xiao, **Zefang Lv**, Chuxuan Wang, Pengmin Li\
-*IEEE Internet of Things Journal*, 2025. 
+*IEEE Internet of Things Journal*, 2025.
+
+1. Reinforcement-Learning-Based APT Defense for Large-Scale Smart Grids
+Liang Xiao, Huanhuan Liu, **Zefang Lv**, Yifan Chen, Zhiping Lin and Yousong Du\
+*IEEE Internet of Things Journal*, 2025.
 
 1. Learning-based interference coordination for maritime communications\
 Chuhuan Liu, Liang Xiao, Yifan Chen, Siyao Li, Helin Yang, **Zefang Lv**\
