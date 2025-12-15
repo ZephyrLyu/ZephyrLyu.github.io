@@ -26,6 +26,10 @@ the M.S. in Applied Statistics from North China Electric Power University in 202
 
 ## Journal Papers
 
+1. Learning-Based Anti-Jamming Energy-Efficient Wide-Area Communications\
+Huanhuan Liu, Liang Xiao, Shuohua Wang, Weiqi Lin, **Zefang Lv**, Yiwen Zhan, Haoyu Chen\
+*IEEE Transactions on Wireless Communications*, 2025.
+
 1. Reinforcement Learning-Based Edge-Assisted Inference with Multimodal Data\
 Yu Liu, Liang Xiao, Chuxuan Wang, **Zefang Lv**, Yiwen Zhan, Yilin Xiao, Helin Yang\
 *IEEE Transactions on Mobile Computing*, 2025. 
@@ -111,6 +115,10 @@ Huanhuan Liu, Weiqi Lin, Liang Xiao, Pengli Zhang, Haoyu Chen, **Zefang Lv**\
 1. Reinforcement Learning Based Edge-Assisted Dynamic Inference for Mobile Vision\
 Yu Liu, Liang Xiao, Tuhao Li, **Zefang Lv**, Ziyue Qiao, Hui Xiong\
 *IEEE Global communications conference (GLOBECOM)*, 2025.
+
+1. Reinforcement Learning Based Energy-Efficient Anti-Jamming NB-IoT Communications\
+Shuohua Wang, Huanhuan Liu, **Zefang Lv**, Jieling Li, Liang Xiao\
+*IEEE Global Communications Conference (GLOBECOM)*, 2024.
 
 1. Reinforcement Learning Based QoS-Aware Anti-jamming Underwater Video Transmission\
 Shiyu Sun, Shun Chen, Shaoxuan Li, **Zefang Lv**, Liang Xiao, Wei Su\
