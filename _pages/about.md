@@ -50,7 +50,7 @@ Liang Xiao; Haoyu Chen; Shiyu Xu; **Zefang Lv**; Chuxuan Wang; Yilin Xiao\
 Liang Xiao, Jieling Li, Yilin Xiao, **Zefang Lv**, Chuxuan Wang, Pengmin Li\
 *IEEE Internet of Things Journal*, 2025.
 
-1. Reinforcement-Learning-Based APT Defense for Large-Scale Smart Grids
+1. Reinforcement-Learning-Based APT Defense for Large-Scale Smart Grids\
 Liang Xiao, Huanhuan Liu, **Zefang Lv**, Yifan Chen, Zhiping Lin and Yousong Du\
 *IEEE Internet of Things Journal*, 2025.
 
